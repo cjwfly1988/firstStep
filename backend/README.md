@@ -1,1 +1,1 @@
-This is the backend
+done with the help of examples from https://github.com/zmb3/spotify/blob/master/examples/player/player.go
